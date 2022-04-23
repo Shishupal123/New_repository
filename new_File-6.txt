@@ -3,3 +3,7 @@ This is file no.6
 
 Again adding so text in file no 6
 " welcome to the mindtree"
+
+
+changing something ......
+hi how are you ???
